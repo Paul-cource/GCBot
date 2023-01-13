@@ -18,8 +18,8 @@
 
 3.正确安装了botpy库与requests库
 ```
-pip install qq-botpy
-pip install requests
+pip3 install qq-botpy
+pip3 install requests
 ```
 
 
@@ -37,8 +37,10 @@ pip install requests
 1.将开放平台给你的token和id填到config.yaml里的对应位置
 
 
+2.在botmain.py中 填写您服务器的远程地址与token
 
-2.运行botmain.py啊还要干嘛啊傻逼
+
+3.运行botmain.py啊还要干嘛啊傻逼
 
 
 
