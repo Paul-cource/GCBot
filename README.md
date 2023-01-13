@@ -3,6 +3,9 @@
 为[Grasscutter](https://github.com/grasscutters/grasscutter)开发的QQ频道机器人
 
 
+我不在意你会不会拿去圈钱，但是请注意，不 要 抹 去 机 器 人 中 关 于 原 作 者 的 信 息，如 果 您 不 愿 意，请 不 要 使 用 本 机 器 人！
+
+
 1.运行必备
 ---
 1.python（3.8）或更高
