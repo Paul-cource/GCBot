@@ -1,6 +1,6 @@
 # GCbot
 
-A QQ bot for [Grasscutter](https://github.com/grasscutters/grasscutter)
+为[Grasscutter](https://github.com/grasscutters/grasscutter)开发的QQ频道机器人
 
 
 1.运行必备
@@ -45,12 +45,13 @@ pip install requests
 
 
 
-有问题能不能修好了提pr别他妈给我提issue 我不想修 要修我自己会去修的)
+有问题能不能修好了别他妈给我提issue 我不想修 要修我自己会去修的)
 
 
+如你所见，这是一个阉割版本，我的建议是不要提交你的pr，可以私发给我的邮箱3116163200@qq.com，如果您的提交对于项目有帮助，我会给您内部仓库的access的
 
-请勿外传，倒卖圈钱，魔改 魔改你要么本地仓库要么开新分支 千万别fork或对外开源！ 千万别fork或对外开源！ 千万别fork或对外开源！
 
+我不在意你会不会拿去圈钱，但是请注意，不 要 抹 去 机 器 人 中 关 于 原 作 者 的 信 息，如 果 您 不 愿 意，请 不 要 使 用 本 机 器 人！
 
 
 [赞助](https://vme50.azhegod.top)一下主播吧 挺不容易的
